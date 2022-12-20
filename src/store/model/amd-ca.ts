@@ -21,35 +21,15 @@ export const AmdCa: Store = {
     },
     {
       brand: 'amd',
-      cartUrl:
-        'https://www.amd.com/en/direct-buy/5458373400/ca?add-to-cart=true',
       model: 'amd reference',
-      series: 'rx6800',
-      url: 'https://www.amd.com/en/direct-buy/5458373400/ca',
+      series: 'rx7900XT',
+      url: 'https://www.amd.com/en/direct-buy/5722619200/ca',
     },
     {
       brand: 'amd',
-      cartUrl:
-        'https://www.amd.com/en/direct-buy/5458372800/ca?add-to-cart=true',
       model: 'amd reference',
-      series: 'rx6800xt',
-      url: 'https://www.amd.com/en/direct-buy/5458372800/ca',
-    },
-    {
-      brand: 'amd',
-      cartUrl:
-        'https://www.amd.com/en/direct-buy/5458372200/ca?add-to-cart=true',
-      model: 'amd reference',
-      series: 'rx6900xt',
-      url: 'https://www.amd.com/en/direct-buy/5458372200/ca',
-    },
-    {
-      brand: 'amd',
-      cartUrl:
-        'https://www.amd.com/en/direct-buy/5496921500/ca?add-to-cart=true',
-      model: 'amd reference',
-      series: 'rx6800xt',
-      url: 'https://www.amd.com/en/direct-buy/5496921500/ca',
+      series: 'rx7900xtx',
+      url: 'https://www.amd.com/en/direct-buy/5722619400/ca',
     },
   ],
   name: 'amd-ca',
